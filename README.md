@@ -2,6 +2,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15711302&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
+  Understanding your auiences expertise level significantly shapes the way you present technical information. You can adjusst to the language and terminologies 
+  of each of them. You can use industry-specific jargon and technical terms tech expets are familiar with while for the regular folks you can use simplify language
+  and avoid jargon. Focus on advanced topics and nuances for the tech experts but offer more background information and context to the regular folks.
 ## 2. What are some strategies to tailor your content to different audience types?
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
